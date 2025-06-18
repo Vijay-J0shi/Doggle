@@ -1,11 +1,10 @@
-# 🔍 Vite Search App
-
 A sleek, fast search engine UI built with **React + Vite** and styled using **Tailwind CSS**. It fetches data from the **SerpAPI** to provide real-time results for web, images, news, and videos.
 
 ---
 
 ## 📸 Preview
 
+![Screenshot](./screenshot.png) <!-- Replace with actual image if needed -->
 
 ---
 
@@ -34,7 +33,7 @@ A sleek, fast search engine UI built with **React + Vite** and styled using **Ta
    ```bash
    git clone https://github.com/your-username/vite-search-app.git
    cd vite-search-app
-````
+
 
 2. **Install dependencies**
 
@@ -44,7 +43,7 @@ A sleek, fast search engine UI built with **React + Vite** and styled using **Ta
 
 3. **Add `.env`**
 
-   ```
+   ```env
    VITE_KEY=your_serpapi_key_here
    ```
 
@@ -75,6 +74,8 @@ This app uses **SerpAPI** with a proxy setup:
 
 ## 🌍 Live Demo
 
+🔗 [Visit Live App](https://your-app-name.netlify.app)
+
 ---
 
 ## 🖼️ Screenshot Guide
@@ -83,7 +84,7 @@ To add your own screenshot:
 
 1. Take a screenshot of the homepage
 2. Save it as `screenshot.png` in the root of your project
-3. Commit and push
+3. Commit and push it to GitHub
 
 ---
 
@@ -91,3 +92,4 @@ To add your own screenshot:
 
 MIT License
 © 2025 Vijay Joshi
+
