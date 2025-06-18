@@ -8,7 +8,6 @@ export default defineConfig({
     react()],
 server: {
     proxy: {
-      
       '/api': {
         target: 'https://serpapi.com',
         changeOrigin: true,
